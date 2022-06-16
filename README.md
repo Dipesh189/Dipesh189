@@ -5,7 +5,7 @@
 
 📫 <h1>There are plenty ways to contact me</h1>
 * E-mail: dipeshdodiya@gmail.com
-* linkedin: [www.linkedin.com/in/dipeshkumar]
+* linkedin: www.linkedin.com/in/dipeshkumar
 * instagram
 
 <!---
