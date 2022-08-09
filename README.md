@@ -1,5 +1,5 @@
 > <h1> 👋 Hi, I am Dipeshkumar Dodiya </h1>
-👀 Prospective data analyst who strives to pose and answer questions with quantitative-driven insights. The development of personal projects have importance of having an iterative, hypothesis-oriented approach to analysis. Eager to leverage that approach at as junior data analysis.
+
 🌱 I’m currently learning ...
 💞️ I’m looking to collaborate on ...
 
